@@ -1,7 +1,3 @@
-# Bounce-Animation-in-HTML-CSS
-Here's a concise and engaging GitHub description for your project:  
-
----
 
 #  Bouncing Ball Animation (HTML & CSS)  
 
